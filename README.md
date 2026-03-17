@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Bhushan Wagh
 
-<!--
-**bhushan-12/bhushan-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bhushan%20Wagh&fontSize=40&fontColor=ffffff"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="bhushan.png" width="200" style="border-radius:50%"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Odoo Software Engineer | ERP Developer | Full-Stack Developer
+
+---
+
+## 👨‍💻 About Me
+
+I am an **Odoo Software Engineer** with strong experience in developing and customizing ERP solutions that help businesses automate processes and improve efficiency.
+
+My core expertise is in **Python development and Odoo ERP**, along with strong knowledge of databases, backend architecture, and system integrations.
+
+I work across the **full development stack**, building backend systems, APIs, and integrations using **Python, REST APIs, and GraphQL**, while also developing user-friendly interfaces using **JavaScript, HTML, CSS, and Bootstrap**.
+
+Along with technical development, I also work as an **Odoo Consultant**, helping businesses understand their requirements and implementing practical ERP solutions.
+
+---
+
+## 🛠 Tech Stack
+
+Python | Odoo | PostgreSQL | REST API | GraphQL  
+JavaScript | HTML | CSS | Bootstrap | Java
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhushanWagh&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=BhushanWagh)
+
+---
+
+⭐ Always learning, building, and improving.
