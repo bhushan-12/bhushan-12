@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="bhushan.png" width="200" style="border-radius:50%"/>
+<img src="bhushan.jpeg" width="200" style="border-radius:50%"/>
 </p>
 
 ### 🚀 Odoo Software Engineer | ERP Developer | Full-Stack Developer
